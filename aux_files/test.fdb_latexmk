@@ -1,0 +1,24 @@
+# Fdb version 4
+["pdflatex"] 1730782092.61066 "/home/seungwoo/astronomy/GalacticAstronomy/deVaucouleurs_profile/test.tex" "test.pdf" "test" 1730782092.98467 2
+  "/etc/texmf/web2c/texmf.cnf" 1729847494.17668 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/seungwoo/astronomy/GalacticAstronomy/deVaucouleurs_profile/test.tex" 1730782091.77103 221 a08622872492370cf444c3760f9198c9 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1705352648 20144 147463a6a579f4597269ef9565205cfe ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo" 1705352648 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty" 1642282977 1656 7e824878bad4df5a3e8bba4e463d9126 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1459978653 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
+  "/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def" 1663965824 19448 1e988b341dda20961a6b931bcde55519 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx" 1667332637 2885 9c645d672ae17285bba324998918efd8 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1704491087 30006 57b07afb710ee2f649c65cfbafda39c1 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty" 1705955748 6565 cfd9fd0a1d5f5ad985151778771ff7a9 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1696969620 9327 c30c00c0072edba199ede5889311aaa9 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty" 1700082560 55487 80a65caedd3722f4c20a14a69e785d8f ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1729847544 8212339 50d0914ea6fef7dc2cec976d84c6e195 ""
+  "aux_files/test.aux" 1730782092.60231 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "test.tex" 1730782091.77103 221 a08622872492370cf444c3760f9198c9 ""
+  (generated)
+  "aux_files/test.aux"
+  "aux_files/test.log"
+  "test.pdf"
+  (rewritten before read)
