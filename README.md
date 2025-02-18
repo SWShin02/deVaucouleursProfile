@@ -1,1 +1,1 @@
-# deVaucouleursProfile
+# de Vaucouleurs profile
